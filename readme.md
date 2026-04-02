@@ -36,5 +36,3 @@ Zgodnie z poleceniem w zadaniu, nie używałem AI do wygenerowania gotowego kodu
 2. **Przetwarzanie danych (Pandas):** Skonsultowałem z AI optymalny sposób na połączenie (tzw. `merge`) tabeli postów z tabelą komentarzy po kluczu `postId`, aby wydajnie wyliczyć ranking TOP 5 postów.
 3. **Wizualizacje (Plotly):** Użyłem AI jako szybkiej dokumentacji, aby dowiedzieć się, jak wymusić konkretne kolory w wykresie kołowym (`color_discrete_map`), by zadania ukończone (True) były zawsze zielone, a nieukończone (False) – czerwone.
 4. **Jakość kodu:** Poprosiłem o sprawdzenie moich komentarzy w kodzie i upewnienie się, że podział na sekcje (Part 1, Part 2, Part 3) jest czytelny i zgodny z dobrymi praktykami.
-
-Dzięki takiemu podejściu aplikacja jest w 100% zrozumiała, a kod jest czysty i łatwy w ewentualnej rozbudowie.
