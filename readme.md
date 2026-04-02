@@ -17,8 +17,8 @@ Link do działającego dema w chmurze: (https://d3mqm9jxp9hkpwxg8g6y2b.streamlit
 
 ## Zrzut ekranu
 
-(./screensshots/screenshot_1.png)
-(./screensshots/screenshot_2.png)
+![screenshot_1](./screensshots/screenshot_1.png)
+![screenshot_2](./screensshots/screenshot_2.png)
 
 ## 🛠 Technologie
 
