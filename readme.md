@@ -13,12 +13,12 @@ Zgodnie z poleceniem, projekt został zrealizowany w sposób modułowy, a kod zo
 
 ## 🌐 Demo
 
-Link do działającego dema w chmurze: **[TUTAJ WKLEJ LINK DO STREAMLIT CLOUD PO WDROŻENIU]**
+Link do działającego dema w chmurze: (https://d3mqm9jxp9hkpwxg8g6y2b.streamlit.app/)
 
 ## Zrzut ekranu
 
-![Zrzut ekranu aplikacji](screenshot.png)
-_(Aplikacja w działaniu)_
+(./screensshots/screenshot_1.png)
+(./screensshots/screenshot_2.png)
 
 ## 🛠 Technologie
 
